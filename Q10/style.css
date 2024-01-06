@@ -1,0 +1,76 @@
+.main{
+    margin-left: 25rem;
+    margin-top: 2rem;
+    background-color: rgb(216, 216, 216);
+    width:30rem;
+}
+.logo{
+    text-align: center;
+}
+.logo h2{
+    margin-top: 7px;;
+}
+img{
+    height:100px;
+    width:100px;
+    
+    margin-top: 1rem;
+}
+input {
+    border: 2px solid blue;
+}
+input[type=text] {
+    width: 70%;
+    margin-bottom: 1rem;
+    box-sizing: border-box;
+}
+input[type=email] {
+    width: 70%;
+    margin-left: 2rem;
+    box-sizing: border-box;
+    margin-bottom: 1rem;
+    position: relative;
+}
+input[type=mobile] {
+    width: 70%;
+    margin-left: 1.5rem;
+    box-sizing: border-box;
+    position: relative;
+}
+input[type=password] {
+    width: 70%;
+    margin-left: 0.6rem;
+    margin-top: 1rem;
+    box-sizing: border-box;
+    position: relative;
+}
+label[for=gender] {
+    margin-left: 1.4rem;
+    
+}
+.gender{
+    margin-top: 1rem;
+}
+.city {
+    margin-top: 1rem;
+}
+select {
+    width: 70%;
+    margin-left: 2.9rem;
+    border:2px solid blue;
+}
+button {
+    width: 90%;
+    padding: 0.8rem;
+    margin-top: 2rem;
+    background-color: orange;
+    margin-bottom: 2rem;
+    border-radius: 5px;
+}
+input,select{
+    padding: 8px;
+}
+form{
+    margin-left: 40px;
+}
+

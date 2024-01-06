@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 1000px;
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20210814/pngtree-blue-purple-simple-gradient-background-image_760572.jpg");
+    background-repeat: none;
+    background-size: cover;
+}
+.nav {
+    margin-left: 10px;
+    width: 120px;
+    height: 230px;
+    border: 2px solid red;
+    position: fixed;
+    top: 200px;
+}
+.nav ul {
+    list-style-type: none;
+    padding: 1.5rem;
+    position: absolute;
+    margin: auto;
+}
+.nav ul li {
+    display: inline-block;
+    padding: 0.5rem;
+}
+.nav ul li a {
+    text-decoration: none;
+    color: Red;
+    font-size: 1.4rem;
+    font-weight: 700;
+}

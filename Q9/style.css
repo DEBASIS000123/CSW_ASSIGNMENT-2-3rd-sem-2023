@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    font-family: Arial;
+    border: border-box;
+   
+}
+body{
+    height:6000px;
+    font-family: Arial;
+    background-color: rgb(203, 211, 219);
+}
+img{
+    height:600px;
+    width:100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.navbar{
+    margin: -5px;
+    height:40px;
+    width:100%;
+    background-color: black;
+    color:white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.data:hover{
+    color:red;
+}
+.head h1,p{
+    color:red;
+    padding-left:40px;
+}
+.head{
+    padding-top: 40px;
+}
+.para p{
+    color:black;
+}

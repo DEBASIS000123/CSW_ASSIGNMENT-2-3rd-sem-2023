@@ -1,0 +1,13 @@
+div
+{
+	color:black;
+
+}
+img:hover+ div
+{
+    color:Red;
+}
+img{
+    height:100px;
+    width:100px;
+}

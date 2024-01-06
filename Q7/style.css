@@ -1,0 +1,40 @@
+.dropdown {
+    box-sizing: border-box;
+    width: 200px;
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+    background-color: chocolate;
+    }
+    .menu {
+    display: none;
+    }
+    .menu div {
+    width: 200px;
+    text-align: center;
+    width: 200px;
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+    box-sizing: border-box;
+    }
+    .list1 {
+    background-color: crimson;
+    font-family: monospace;
+    }
+    .list2 {
+    background-color: rosybrown;
+    font-family: serif;
+    }
+    .list3 {
+    background-color: mediumaquamarine;
+    font-family: sans-serif;
+    }
+    .list4 {
+    background-color: fuchsia;
+    font-family: cursive;
+    }
+    
+    .dropdown:hover+.menu {
+    display: block;
+    }
