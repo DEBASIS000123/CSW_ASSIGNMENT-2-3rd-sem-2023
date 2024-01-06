@@ -1,0 +1,17 @@
+#divouter
+{
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    margin: auto;
+}
+#divleft, #divright
+{
+	background-color: rgb(92, 240, 240);
+}
+.heading, .data
+{
+    border: 2px solid black;
+	padding: 15px;
+	font-weight: bolder;
+}
