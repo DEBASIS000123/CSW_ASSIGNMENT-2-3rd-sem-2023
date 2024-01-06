@@ -1,0 +1,13 @@
+div ,div:hover{
+    
+    background-image: url("https://images.squarespace-cdn.com/content/v1/57713a8e2994cae381dd86fe/1510405002757-FP2W9HV8ZA0HP2IF3O6A/SOA-PNG.png");
+    height: 200px;
+    width: 60%;
+    
+    background-size:cover;
+    
+}
+div:hover{
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Amazon_icon.svg/1024px-Amazon_icon.svg.png");
+    
+}
